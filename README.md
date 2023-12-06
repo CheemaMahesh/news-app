@@ -7,30 +7,25 @@
 
 <br/>
 <h1>Home Page 2</h1>
-  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/7be345c3-837f-4c00-bfd5-68a86d171b01">
+  <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/63740dce-e5db-4af0-8047-f7a54aab4674">
   <br/>
-  <h1>Details Page</h1>
-  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/2fc8b865-9cee-4fdd-8d7f-e7e7693dafa7">
-  <br/>
-  
-  <h1>Contact  Page</h1>
-  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/6643f1a8-c8a6-4a6e-a2c1-e03f10ae113e">
+  <h1>News Details Page</h1>
+  <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/c707ac12-470b-4f07-9fdc-4102f3fb83fb">
   <br/>
   
-  <h1>Contact Page</h1>
-  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/fd71fc4d-a828-4894-a5dc-b1763487dca4">
+  <h1>Sign In</h1>
+  <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/c0249bd6-1e5a-479f-8527-e2f4056a0021">
+  <br/>
+  
+  <h1>Sign Up Page</h1>
+  <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/32bead4f-e743-4acb-a04b-c7191a465de9">
+  <br/>
+   <h1>Favorites Page</h1>
+  <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/ee97a339-7960-40c5-82df-fd0bae40d9ef">
   <br/>
   
   
 
-![Screenshot 2023-12-06 06 15 34]()
-![Screenshot 2023-12-06 06 15 54](https://github.com/CheemaMahesh/news-app/assets/124231713/63740dce-e5db-4af0-8047-f7a54aab4674)
-![Screenshot 2023-12-06 06 15 54](https://github.com/CheemaMahesh/news-app/assets/124231713/c707ac12-470b-4f07-9fdc-4102f3fb83fb)
-
-![Screenshot 2023-12-06 06 16 19](https://github.com/CheemaMahesh/news-app/assets/124231713/c0249bd6-1e5a-479f-8527-e2f4056a0021)
-
-![Screenshot 2023-12-06 06 16 19](https://github.com/CheemaMahesh/news-app/assets/124231713/32bead4f-e743-4acb-a04b-c7191a465de9)
-![Screenshot 2023-12-06 06 16 53](https://github.com/CheemaMahesh/news-app/assets/124231713/ee97a339-7960-40c5-82df-fd0bae40d9ef)
 
 
 <h2>How to Use
