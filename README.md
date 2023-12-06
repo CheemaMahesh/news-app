@@ -6,12 +6,16 @@
   <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/84e23206-0f90-40ab-b7a8-7ba5dc721938">
 
 <br/>
-<h1>Home Page 2</h1>
-  <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/63740dce-e5db-4af0-8047-f7a54aab4674">
-  <br/>
-  <h1>News Details Page</h1>
+
+  <h1>News Details Page 1</h1>
   <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/c707ac12-470b-4f07-9fdc-4102f3fb83fb">
   <br/>
+
+ 
+  <h1>ews Details Page 2</h1>
+  <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/e906c9d7-3580-4169-b3f7-76234ec39173">
+  <br/>
+
   
   <h1>Sign In</h1>
   <img src="https://github.com/CheemaMahesh/news-app/assets/124231713/c0249bd6-1e5a-479f-8527-e2f4056a0021">
