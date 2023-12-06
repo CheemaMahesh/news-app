@@ -1,5 +1,5 @@
 <h1>NEWS-APP</h1>
-<p>[HostedLink Click Here](https://senior-flex-kratin.vercel.app/)</p>
+<p>[Youtube-Video](https://youtu.be/N5jN2zeqAiQ/)</p>
 <br/>
 
   <h1>Home Page</h1>
@@ -23,26 +23,8 @@
   
   
 
-<h2>Info</h2>
-<p>
-  <h3>Elderly Exercise Video Library App</h3><br/>
-    This React-based web application aims to assist individuals aged 65 and above by providing a curated collection of exercise videos tailored to address various health issues commonly faced by older adults, such as knee pain, back pain, and other related problems. The app is designed to offer a user-friendly interface for browsing and accessing exercise videos that can aid in improving mobility, reducing discomfort, and enhancing overall well-being.<br/>
-</p>
-    <h4>Features</h4>
 
- <ul>
-    <li><b>Categorized Exercise Videos:</b>  The app categorizes exercise videos based on specific health concerns, enabling easy navigation and selection</li>
-        <li><b>Targeted Exercise Recommendations: </b>Curated video playlists designed to address various health issues commonly experienced by the elderly, including knee pain, back pain, and more.</li>
-                <li><b>Embedded YouTube Videos:</b> Utilizes embedded YouTube video players to provide a seamless viewing experience within the application.</li>
-    </ul>
-    <br/>
-    <h1>Technologies Used</h1>
-    <ul>
-    <li><b>ReactJS: </b>The frontend of the application is built using ReactJS, offering a robust and efficient user interface.</li>
-        <li><b>HTML & CSS: </b>  Standard web technologies have been used for layout and styling.</li>
-    </ul>
 
-<ol>
 <h2>How to Use
 </h2>
 <li>
@@ -77,4 +59,4 @@ Select a video to view exercises tailored to address specific issues.<br/>
 </li>
 
 </ul>
-<br/
+<br/>
