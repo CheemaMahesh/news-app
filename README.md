@@ -63,3 +63,12 @@ Select a video to view exercises tailored to address specific issues.<br/>
 
 </ul>
 <br/>
+
+<h1>Tech Used</h1>
+<ol>
+  <li>React Js</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Firebase</li>
+    <li>React-router-dom</li>
+</ol>
