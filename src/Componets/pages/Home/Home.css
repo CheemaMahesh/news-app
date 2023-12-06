@@ -1,0 +1,60 @@
+.home{
+    height: 110vh;
+    width: 100vw;
+}
+.home-new-heading{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.home-bars{
+    height: 15%;
+    width: 40%;
+    border-top: 4px solid grey;
+    border-bottom: 4px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.home-bars div{
+    border-top: 4px solid grey;
+    border-bottom: 4px solid grey;
+    padding-top: 2px;
+        width: 100%;
+}
+.home-news{
+    width:10% ;
+    color: #B00020;
+    font-size: 30px;
+    font-family: serif;
+    font-family: bold;
+    text-align: center;
+}
+
+
+
+
+
+/* ================tab-view================================ */
+@media (max-width: 768px) {
+    .home-bars{
+        width: 30%;
+    }
+    .home-news{
+        font-size: 15px;
+    }
+
+
+}
+/* ===================mobile-view========================== */
+@media (max-width: 480px) {
+    .home-bars{
+        width: 30%;
+    }
+    .home-news{
+        font-size: 10px;
+    }
+}
+
